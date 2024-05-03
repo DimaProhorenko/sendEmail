@@ -1,0 +1,16 @@
+{
+  "name": "bxleinx/send-email",
+  "type": "project",
+  "autoload": {
+    "classmap": [
+      "App/"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Dmitriy Prokhorenko",
+      "email": "dima.study.web@gmail.com"
+    }
+  ],
+  "require": {}
+}
